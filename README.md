@@ -1,4 +1,5 @@
 # Github_Tutorial_Repository
 
-Valami új sor.
-Megint egy új sor.
+Teszt
+ÍRJ BELE VALAMIT HA TÖRIK HA SZAKAD MOST NETRE MEGY.
+GID ADD -A HALLOD ????
